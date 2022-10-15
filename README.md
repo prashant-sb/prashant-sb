@@ -1,4 +1,4 @@
-## Hi 🧑‍💻
+## Hi there 🧑‍💻
 
 This is the place where I make and break things 🛠️
 
