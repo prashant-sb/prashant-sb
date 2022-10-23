@@ -4,7 +4,7 @@ This is the place where I make and break things 🛠️
 
 - 🔭 I’m currently working in <a href="https://www.veritas.com/" target="blank">Veritas Technologies LLC</a>
 
-- 🌱 I’m currently Working on Kubernetes and Openshift infra applications
+- 🌱 I’m currently working on Kubernetes and Openshift infra applications
 
 - 📫 How to reach me **prashant.sb01@gmail.com**
 
