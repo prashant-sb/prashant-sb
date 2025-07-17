@@ -13,6 +13,3 @@ I spend most of my time building and running reliable infrastructure — from Ku
 • System security
 
 • Cloud platforms
-
-<img align="left" width=48% src="https://github-readme-stats.vercel.app/api?username=prashant-sb&show_icons=true&theme=merko" />
-
